@@ -1,0 +1,231 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`renders an extra Product when added to the array 1`] = `
+<DocumentFragment>
+  <ul
+    class="product-grid"
+  >
+    <li
+      class="product-grid-item"
+    >
+      <img
+        alt="THE RONNIE MAC"
+        src="https://files.stripe.com/links/fl_test_HG5Y5oY5y2SlpQMclkQ0rjXm"
+      />
+      <h3>
+        THE RONNIE MAC
+      </h3>
+      <p>
+        The sunglasses Ronnie Mac would wear if Ronnie Mac wore sunglasses.
+      </p>
+      <button>
+        Buy now for NZ$85.00
+      </button>
+    </li>
+    <li
+      class="product-grid-item"
+    >
+      <img
+        alt="THE BLACKING OUT"
+        src="https://files.stripe.com/links/fl_test_MUQR3s4Rlmp8eJ8hA7JBIAYV"
+      />
+      <h3>
+        THE BLACKING OUT
+      </h3>
+      <p>
+        Wait? Hahaha we made these?! I don’t remember that.  They have an ANSI Z87+ safety rating, roomier fit, rubberized black frame, and redesigned ear and nose pieces?! Damn, we did a good job. Someone give me a raise. 
+      </p>
+      <button>
+        Buy now for NZ$80.00
+      </button>
+    </li>
+    <li
+      class="product-grid-item"
+    >
+      <img
+        alt="EXPERTS ONLY LOUNGER BOTTOMS"
+        src="https://files.stripe.com/links/fl_test_OySmdVDzKgBc9b3gbKXn22cg"
+      />
+      <h3>
+        EXPERTS ONLY LOUNGER BOTTOMS
+      </h3>
+      <p>
+        “The best thing we’ve ever made.” - Description writer.
+      </p>
+      <button>
+        Buy now for NZ$60.00
+      </button>
+    </li>
+    <li
+      class="product-grid-item"
+    >
+      <img
+        alt="THE DOLCE VITA"
+        src="https://files.stripe.com/links/fl_test_9bdFA0Nt7GJ9Q7SgThJoMvXr"
+      />
+      <h3>
+        THE DOLCE VITA
+      </h3>
+      <p>
+        This time we got it right. We’re living like in a dolce vita. Mmmm, gonna dream tonight. We’re dancing like in a dolce vita. With lights and music on. Our love is made in the dolce vita.
+      </p>
+      <button>
+        Buy now for NZ$120.00
+      </button>
+    </li>
+    <li
+      class="product-grid-item"
+    >
+      <img
+        alt="1993 NIGHT SHADES"
+        src="https://files.stripe.com/links/fl_test_UwxwT7mgCWx4EEOHrd1XPjiS"
+      />
+      <h3>
+        1993 NIGHT SHADES
+      </h3>
+      <p>
+        Just be careful because it is hard to keep ladies from stealing these at the bar.
+      </p>
+      <button>
+        Buy now for NZ$80.00
+      </button>
+    </li>
+    <li
+      class="product-grid-item"
+    >
+      <img
+        alt="NIGHT FADE SCRUNCHIE"
+        src="https://files.stripe.com/links/fl_test_bXsKkOXQ00MgPnpI5foyviy9"
+      />
+      <h3>
+        NIGHT FADE SCRUNCHIE
+      </h3>
+      <p>
+        The Optimal Blend of Style and Performance. Fluffy, brightly colored scrunchies that won’t tear your hair out like elastic hairbands or the stranger at the bus stop.
+      </p>
+      <button>
+        Buy now for NZ$13.00
+      </button>
+    </li>
+    <li
+      class="product-grid-item"
+    >
+      <img
+        alt="BLOCK HARD SUPER MESH HAT"
+        src="https://files.stripe.com/links/fl_test_qYDrplzhQOR72n7dKJ3C48PQ"
+      />
+      <h3>
+        BLOCK HARD SUPER MESH HAT
+      </h3>
+      <p>
+        The only logical evolution of the trucker hat, we bring you the Super Mesh hat. Even less hat for your buck. Featuring 5 panels, FOUR of which are made of mesh.
+      </p>
+      <button>
+        Buy now for NZ$30.00
+      </button>
+    </li>
+    <li
+      class="product-grid-item"
+    >
+      <img
+        alt="BLOCK HARD BELT"
+        src="https://files.stripe.com/links/fl_test_wgtK9fPWBkN9kKViN8WYdyv9"
+      />
+      <h3>
+        BLOCK HARD BELT
+      </h3>
+      <p>
+        Tight or loose, you get to choose! A necklace for your pants. The ultimate in pantsing defense.
+      </p>
+      <button>
+        Buy now for NZ$20.00
+      </button>
+    </li>
+    <li
+      class="product-grid-item"
+    >
+      <img
+        alt="DAY FADE SCRUNCHIE"
+        src="https://files.stripe.com/links/fl_test_fyBXinaucwAuw1IrFLK0mKAX"
+      />
+      <h3>
+        DAY FADE SCRUNCHIE
+      </h3>
+      <p>
+        The Optimal Blend of Style and Performance. Fluffy, brightly colored scrunchies that won’t tear your hair out like elastic hairbands or the stranger at the bus stop.
+      </p>
+      <button>
+        Buy now for NZ$13.00
+      </button>
+    </li>
+    <li
+      class="product-grid-item"
+    >
+      <img
+        alt="THE GOLD STANDARD POLARIZED"
+        src="https://files.stripe.com/links/fl_test_iUCrsMz2JliR0gCd2Wv7JkIz"
+      />
+      <h3>
+        THE GOLD STANDARD POLARIZED
+      </h3>
+      <p>
+        Gold, our primal instincts draw us to this element.
+      </p>
+      <button>
+        Buy now for NZ$80.00
+      </button>
+    </li>
+    <li
+      class="product-grid-item"
+    >
+      <img
+        alt="THE LAND LOCKED POLARIZED"
+        src="https://files.stripe.com/links/fl_test_InvctxcO4PLS7cWEcDJd1nnB"
+      />
+      <h3>
+        THE LAND LOCKED POLARIZED
+      </h3>
+      <p>
+        No tortoises were harmed in the making of these incredible tortoiseshell Exciters.
+      </p>
+      <button>
+        Buy now for NZ$90.00
+      </button>
+    </li>
+    <li
+      class="product-grid-item"
+    >
+      <img
+        alt="THE 1993 2000"
+        src="https://files.stripe.com/links/fl_test_5OpXfbOUjAp3LFSfrJuKlqwc"
+      />
+      <h3>
+        THE 1993 2000
+      </h3>
+      <p>
+        The 1993s are back and better than ever. Demand Respect and Authority™. In the courtroom. In the bedroom. In the bathroom. In your mugshot. In, the FUTURE.
+      </p>
+      <button>
+        Buy now for NZ$75.00
+      </button>
+    </li>
+    <li
+      class="product-grid-item"
+    >
+      <img
+        alt="A NEW PRODUCT HAS BEEN ADDED"
+        src="https://files.stripe.com/links/fl_test_HG5Y5oY5y2SlpQMclkQ0rjXm"
+      />
+      <h3>
+        A NEW PRODUCT HAS BEEN ADDED
+      </h3>
+      <p>
+        How dynamic is your product listing?
+      </p>
+      <button>
+        Buy now for NZ$85.00
+      </button>
+    </li>
+  </ul>
+</DocumentFragment>
+`;
